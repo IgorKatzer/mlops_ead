@@ -3,17 +3,15 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10
+  - python=3.9
   - pip
   - git
   - curl
-  - pytest
 
   - numpy=1.26.4
   - pandas=2.2.3
   - matplotlib=3.9.2
   - scikit-learn=1.5.2
-  - tensorflow=2.10
 
   - jupyter
   - jupyterlab
